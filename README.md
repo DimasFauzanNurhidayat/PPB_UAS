@@ -4,6 +4,11 @@ Nama : Dimas Fauzan Nurhidayat
 Kelas : IK2E
 NIM : 3.34.20.4.06
 
+
+
+
+
+
 1. Tampilan menu awal
 
 
